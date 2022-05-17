@@ -1,0 +1,18 @@
+.logo{
+    background-color: white;
+    height: 45px;
+    width: 140px;
+    border-radius: 3px;
+}
+
+ul a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-navbar:hover{
+    border-bottom: 3px solid white;
+    width: 100%;
+    padding-bottom: 3px;
+    margin-bottom: -6px;
+    transition: 0.3s;
+}
